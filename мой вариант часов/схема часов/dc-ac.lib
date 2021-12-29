@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# dc-ac_180v
+#
+DEF dc-ac_180v D 0 40 Y Y 1 F N
+F0 "D" 0 850 50 H V C CNN
+F1 "dc-ac_180v" 0 850 50 H V C CNN
+F2 "" 0 850 50 H I C CNN
+F3 "" 0 850 50 H I C CNN
+DRAW
+S -400 650 400 -700 0 1 0 N
+X Vin 1 -500 350 100 R 50 50 1 1 I
+X gnd 2 -500 -50 100 R 50 50 1 1 I
+X Vout 3 500 350 100 L 50 50 1 1 w
+X gnd 4 500 -50 100 L 50 50 1 1 O
+ENDDRAW
+ENDDEF
+#
+#End Library

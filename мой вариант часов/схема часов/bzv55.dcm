@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BZV55
+D 800mW Zener Diode, 3.6-200V, SMF
+K zener diode
+F https://www.vishay.com/docs/85153/bzd27series.pdf
+$ENDCMP
+#
+#End Doc Library
